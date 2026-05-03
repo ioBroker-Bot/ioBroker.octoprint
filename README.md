@@ -85,6 +85,8 @@ Tested with OctoPrint 1.9.0
 * (klein0r) Allow self-signed certificates
 * (klein0r) Added Ukrainian language
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 
 The MIT License (MIT)
