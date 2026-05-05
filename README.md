@@ -52,7 +52,9 @@ iobroker add octoprint
 -->
 ### **WORK IN PROGRESS**
 
+* (copilot) Adapter requires node.js >= 22 now
 * (@klein0r) Updated dependencies
+* (@klein0r) admin 7.6.20 and js-controller 6.0.11 (or later) are required
 
 ### 6.0.1 (2025-08-25)
 
@@ -84,6 +86,8 @@ Tested with OctoPrint 1.9.0
 * (klein0r) Removed binary states (deprecated)
 * (klein0r) Allow self-signed certificates
 * (klein0r) Added Ukrainian language
+
+[Older changelogs can be found there](CHANGELOG_OLD.md)
 
 ## License
 
